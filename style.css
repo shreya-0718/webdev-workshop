@@ -1,0 +1,26 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div {
+    background-color: purple;
+    margin: 50px;
+    padding: 20px;
+}
+
+.redbackground {
+    background-color: red;
+}
+
+.photo {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    border-radius: 50%;
+}
+
+.flexy {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
